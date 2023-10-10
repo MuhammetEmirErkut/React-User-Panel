@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PetTest" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FAFAFA</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PetTest" parent="Base.Theme.PetTest" />
+</resources>
