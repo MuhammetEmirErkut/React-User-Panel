@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Emir Erkut",
+      "department": "Bilişim",
+      "salary": "2.500.000",
+      "id": "1"
+    },
+    {
+      "name": "Emir Kaya",
+      "department": "Bilişim ",
+      "salary": "21041240",
+      "id": "3"
+    }
+  ]
+}
